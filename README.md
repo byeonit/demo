@@ -1,2 +1,0 @@
-# demo
-simple demo training
